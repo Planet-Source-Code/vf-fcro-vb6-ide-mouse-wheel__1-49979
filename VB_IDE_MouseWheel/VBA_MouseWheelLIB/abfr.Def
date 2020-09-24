@@ -1,0 +1,5 @@
+LIBRARY vb6Idemousewheel
+EXPORTS 
+EnableWheel
+DisableWheel
+
